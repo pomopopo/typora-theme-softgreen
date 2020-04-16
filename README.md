@@ -1,4 +1,4 @@
-# typora-theme-eyeazy
+# typora-theme-eye-eazy
 A typora theme inspired by tinylight (vscode) and Ursine (typora).
 
 ## About eye-easy theme
