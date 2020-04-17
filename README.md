@@ -1,7 +1,7 @@
-# typora-theme-eye-easy
+# typora-theme-softgreen
 A typora theme based on *Soft Green*, inspired by *tinylight* (vscode) and *Ursine* (typora).
 
-## About eye-easy theme
+## About softgreen theme
 Soft Green Theme from h5builder maybe the best theme for my eyes. I like the gentel feeling of this soft green, not too dark or too bright.
 
 ## Features
