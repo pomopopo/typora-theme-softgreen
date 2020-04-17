@@ -1,12 +1,13 @@
-# typora-theme-eyeazy
-A typora theme inspired by tinylight (vscode) and Ursine (typora).
+# typora-theme-eye-easy
+A typora theme based on *Soft Green*, inspired by *tinylight* (vscode) and *Ursine* (typora).
 
 ## About eye-easy theme
 Soft Green Theme from h5builder maybe the best theme for my eyes. I like the gentel feeling of this soft green, not too dark or too bright.
 
 ## Features
-- in source mode, line width = 128
-- tested in both macos and win10 unibody, linux not tested.
+- soft green theme, not too bright or too dark, better for eyes.
+- in source mode, line width changed to 128rem.
+- mostly tested on macOS and partially tested on Win10 unibody, linux not tested, but should work.
 
 ## Snapshots
 
