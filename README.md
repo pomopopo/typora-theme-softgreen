@@ -1,4 +1,4 @@
-# typora-theme-softgreen
+# softgreen
 A typora theme based on *Soft Green*, inspired by *tinylight* (vscode) and *Ursine* (typora).
 
 ## About softgreen theme
