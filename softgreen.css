@@ -34,10 +34,6 @@
     --active-search-item-bg-color: #dfca88;
 }
 
-/* html, body{
-    font-family: "你需要的1", "你需要的2";
-} */
-
 p {
     margin: 0.5rem 0;
 }
@@ -110,9 +106,7 @@ mark {
 #write .md-meta-block {
     background-color: #eee8d5b0;
     border-bottom: 2px solid #ddd6c1;
-    /* margin: 0 0 0 0; */
     padding: 0.5rem 0.75rem 0.5rem 0.75rem;
-    /* opacity: 0.82; */
 }
 
 #write .md-task-list-item>input {
@@ -151,7 +145,7 @@ mark {
     height: 30%;
     width: 2px;
     transform: rotate(-40deg);
-    background:var(--primary-color);
+    background: var(--primary-color);
 }
 
 #write .md-task-list-item>p {
@@ -277,6 +271,7 @@ mark {
     color: var(--text-color);
     background-color: #e8dfc4ff;
 }
+
 .md-hover-tip .md-arrow:after {
     background: #e8dfc4ff;
 }
@@ -287,7 +282,7 @@ mark {
 }
 
 .cm-s-inner .cm-number {
-    color: #9b3affff;
+    color: #9b3aff;
 }
 
 .cm-s-inner .cm-keyword {
@@ -356,7 +351,7 @@ mark {
     background-color: #bbbbbb30;
 }
 
-/* for win10 unibody, which lacks the sense of beauty, not fully tested */
+/* for win10 unibody, which lacks the sense of beauty, but tested */
 #megamenu-menu-sidebar {
     color: #586e75;
     background-color: var(--side-bar-bg-color);
